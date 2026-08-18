@@ -56,6 +56,8 @@ The application is currently built for Android and works alongside the ESP32-C6 
 
 **Bearable App Repository:**  [View Repository](https://github.com/kaatxu/Bearable)
 
+Download the APK [here](https://drive.google.com/file/d/1Ic-rRA5f5QP9VBr-pHBqYD8MdoO2g-DN/view) and install like a normal app.
+
 ## Project Status
 
 Wearable Bearable is currently an engineering prototype. The repository contains the PCB design, proof-of-concept firmware, Android control application, and 3D-printed wearable enclosure.
