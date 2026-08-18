@@ -34,7 +34,7 @@ The electronics are housed inside a custom 3D-printed bear-shaped enclosure moun
 
 The enclosure was designed in Onshape.
 
-**Onshape Model:** [View CAD Design](PASTE_ONSHAPE_LINK_HERE)
+**Onshape Model:** [View CAD Design](https://cad.onshape.com/documents/7e5ceedf84fb8e6fbe93ee03/w/6ff0015e9bba8e7b5cdaebe4/e/c4b1ddca45680bea3a319f90?renderMode=0&uiState=6a83e70f9db896020d9f8f01)
 
 ## Firmware
 
