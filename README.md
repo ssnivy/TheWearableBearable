@@ -46,6 +46,16 @@ A BPM value of `0` stops the rhythm. Values above `200` BPM are limited to `200`
 
 The planned communication system also includes support for device/group IDs, relay networking, and synchronization compensation so larger groups can remain coordinated even when some devices are outside the master’s direct range.
 
+## Software (App)
+
+Special thanks to Katherine Xu for designing the app.
+
+The **Bearable** ao is the control application for the Wearable Bearable system. It allows the conductor to connect to the master device over BLE, set the desired tempo, and start or stop the synchronized haptic rhythm.
+
+The application is currently built for Android and works alongside the ESP32-C6 firmware in this repository. Future software development may include group management, saved songs/tempos, improved pairing, and additional calibration controls.
+
+**Bearable App Repository:**  [View Repository](https://github.com/kaatxu/Bearable)
+
 ## Project Status
 
 Wearable Bearable is currently an engineering prototype. The repository contains the PCB design, proof-of-concept firmware, Android control application, and 3D-printed wearable enclosure.
@@ -56,7 +66,7 @@ Planned features include expanded group management, relay networking, synchroniz
 
 Wearable Bearable was created by **Akash Saran**, **Katherine Xu**, and **Anna Zhou**.
 
-Special Thanks: Credit to my best friend **Katherine Xu** for designing the **Bearable** React app (currently on Android) that controls the device and **Anna Zhou** for maintaining all communication efforts with Wearable's sponsors.
+Credit to my best friend **Katherine Xu** for designing the **Bearable** React app (currently on Android) that controls the device and **Anna Zhou** for maintaining all communication efforts with Wearable's sponsors.
 
 Special thanks to the **Interplay Orchestra** and Technical Director **Shri Khalpada** for supporting the project and providing feedback throughout development.
 
