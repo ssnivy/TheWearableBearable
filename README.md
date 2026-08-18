@@ -54,7 +54,7 @@ Planned features include expanded group management, relay networking, synchroniz
 
 ## Credits
 
-Wearable Bearable was created by me (**Akash Saran**) and my absolute favorite legends **Katherine Xu** and **Anna Zhou**.
+Wearable Bearable was created by **Akash Saran**, **Katherine Xu**, and **Anna Zhou**.
 
 Special Thanks: Credit to my best friend **Katherine Xu** for designing the **Bearable** React app (currently on Android) that controls the device and **Anna Zhou** for maintaining all communication efforts with Wearable's sponsors.
 
