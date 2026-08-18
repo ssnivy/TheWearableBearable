@@ -1,3 +1,5 @@
+## Introduction
+
 The Wearable Bearable is a prototype wearable haptic timing system that helps groups stay synchronized through shared vibration cues. It is designed for situations such as inclusive orchestras, where some musicians may benefit from an additional tactile signal to reinforce the conductor’s tempo.
 
 The system consists of one master device and one or more slave devices. A phone or other Bluetooth Low Energy (BLE) controller sends a selected tempo in beats per minute (BPM) to the master. The master converts that tempo into timed vibration pulses, activates its own motor, and broadcasts synchronization commands to nearby slaves using ESP-NOW. Each slave reproduces the same short vibration pulses, allowing all connected wearers to receive a coordinated tactile beat without physical connections between devices.
@@ -28,3 +30,7 @@ Wearable Bearable was created by me (Akash Saran) and my absolute favorite legen
 Special Thanks: Credit to my best friends Katherine Xu for designing the "Bearable" react app (currently on Android) that controls the device and Anna Zhou for maintaining all communication efforts with Wearable's sponsors. 
 
 The repository  includes component symbols, footprints, reference designs, and supporting assets from the **Seeed Studio Open Parts Library and Seeed Studio XIAO ecosystem**. Those third-party materials remain subject to their respective licenses and attribution requirements.
+
+## Status
+Project Originally Started: 10/17/2026
+Github Saved: 8/18/2026
